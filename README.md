@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Rutik 😉
 
-![Rutik's github stats](https://github-readme-stats.vercel.app/api?username=rutikpatel&theme=tokyonight&show_icons=true&hide=["issues"])
+![Rutik's github stats](https://github-readme-stats.vercel.app/api?username=rutikpatel&include_all_commits=true&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikpatel&theme=tokyonight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=rutikpatel)
