@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋,I'm Rutik 😉
 
-<!--
-**rutikpatel/rutikpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rutik's github stats](https://github-readme-stats.vercel.app/api?username=rutikpatel&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikpatel&theme=tokyonight&layout=compact)
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=rutikpatel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤝🏻 Connect with Me </h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rutik-patel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/rutikk.patel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:rutikpatel3660@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
